@@ -1,1 +1,4 @@
-# assessment
+# For the Data Collecttion challenge I applied the work around in my code because in Pytrends document it shows that the 'interest_over_time' will give the daily data between mentioned in 'timeframe' parameter but it is only giving the monthly data. Another way is to pass 'today 5-y' in the timeframe which give daily data but it works only for 5 year historical data from today. It took me 5 mins to write the code and half hour to figure out that pytrends is not printing daily data as mentioned in the documentation. 
+
+# For Coding Challenge: I've completed the first question with all the constraints and test cases. For the second question I knew how to solve the problem but didnt had enough time to complete it. The solution was to get the two highest buildings (i.e two maximum numbers from the list) and the number of items between them. The area will (the second highest number * the total number of items between two highest numbers - the area of the items between them(i.e if two numbers are there eg 2 and 3, then 2*3 would be the area to subtract))
+
